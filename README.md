@@ -17,6 +17,30 @@ Engineered from the ground up to solve the real-world friction of busy restauran
 
 ---
 
+## 📸 Platform Interface & Multi-Device Showcase
+
+The platform features an adaptive, zero-latency responsive interface engineered for high-concurrency ordering across desktop workstations, waiter floor tablets, and guest smartphones.
+
+### 🖥️ Desktop & Laptop Experience (1920×1080)
+
+| 🌟 Hero & Direct Ordering Experience | 🍽️ Interactive Menu & Category Navigation |
+| :---: | :---: |
+| <img src="showcase-assets/desktop-home.png" alt="Desktop Hero & Brand Showcase" width="100%" /> | <img src="showcase-assets/desktop-menu.png" alt="Interactive Desktop Menu" width="100%" /> |
+
+| 🪑 Real-Time Table Reservation & Floor Booking |
+| :---: |
+| <img src="showcase-assets/desktop-reservation.png" alt="Table Reservation Experience" width="100%" /> |
+
+---
+
+### 📱 Tablet & Mobile Responsive Experience
+
+| 📟 Tablet Floor View (820×1180) | 📲 Mobile Guest Home (390×844) | 🛒 Mobile Ordering & Menu (390×844) |
+| :---: | :---: | :---: |
+| <img src="showcase-assets/tablet-overview.png" alt="Tablet POS Overview" width="100%" /> | <img src="showcase-assets/mobile-home.png" alt="Mobile Hero & Flow" width="100%" /> | <img src="showcase-assets/mobile-menu.png" alt="Mobile Menu & Cart" width="100%" /> |
+
+---
+
 ## 🏛️ System Architecture
 
 ```text
