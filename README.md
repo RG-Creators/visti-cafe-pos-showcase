@@ -73,10 +73,6 @@ Waiters utilize dedicated touch terminals and handheld pocket devices to manage 
 | :---: | :---: |
 | ![Mobile Waiter Interface](showcase-assets/waiter-03-mobile-tableside.jpg) | ![Waiter QR Attendance](showcase-assets/waiter-04-attendance-qr.jpg) |
 
-| 🕒 Shift Attendance & Daily Earnings Dashboard |
-| :---: |
-| ![Waiter Shift Attendance](showcase-assets/waiter-05-attendance-dashboard.jpg) |
-
 ---
 
 ### 3. 💳 Counter POS, Item Modifiers & Split Billing Engine
@@ -114,6 +110,10 @@ Employee self-service terminal featuring chef kitchen display access, punch-in l
 | 📅 Cycle Attendance & Daily Earnings Ledger | 💰 Joining-Date Payroll & 10-Day Hold Summary |
 | :---: | :---: |
 | ![Cycle Attendance Ledger](showcase-assets/staff-03-cycle-attendance-ledger.jpg) | ![Payroll 10-Day Hold Policy](showcase-assets/staff-04-payroll-10day-hold.jpg) |
+
+| 🕒 Shift Attendance Punch & Daily Earnings Dashboard |
+| :---: |
+| ![Staff Shift Attendance Dashboard](showcase-assets/staff-05-attendance-dashboard.jpg) |
 
 ---
 
