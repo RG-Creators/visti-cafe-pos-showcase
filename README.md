@@ -106,7 +106,7 @@ The proprietary source code for this enterprise deployment is maintained in priv
 
 * **Platform:** [https://visticafeandrestaurant.com](https://visticafeandrestaurant.com)
 * **Organization:** RG Creators
-* **Developer Contact:** `rg-dev@users.noreply.github.com`
+* **Developer Contact:** `rgcreatorsofficial@gmail.com` ([rgcreatorsofficial@gmail.com](mailto:rgcreatorsofficial@gmail.com))
 
 ---
 *(c) 2026 Visti Cafe & Restaurant. All rights reserved.*
