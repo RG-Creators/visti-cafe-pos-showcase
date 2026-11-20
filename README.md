@@ -25,11 +25,11 @@ The platform features an adaptive, zero-latency responsive interface engineered 
 
 | 🌟 Hero & Direct Ordering Experience | 🍽️ Interactive Menu & Category Navigation |
 | :---: | :---: |
-| <img src="showcase-assets/desktop-home.png" alt="Desktop Hero & Brand Showcase" width="100%" /> | <img src="showcase-assets/desktop-menu.png" alt="Interactive Desktop Menu" width="100%" /> |
+| ![Desktop Hero](showcase-assets/desktop-home.jpg) | ![Desktop Menu](showcase-assets/desktop-menu.jpg) |
 
-| 🪑 Real-Time Table Reservation & Floor Booking |
-| :---: |
-| <img src="showcase-assets/desktop-reservation.png" alt="Table Reservation Experience" width="100%" /> |
+| 🪑 Real-Time Table Availability (Live Floor Status) | 📅 Table Reservation & Guest Booking |
+| :---: | :---: |
+| ![Live Table Status](showcase-assets/desktop-tables.jpg) | ![Desktop Reservation](showcase-assets/desktop-reservation.jpg) |
 
 ---
 
@@ -37,7 +37,7 @@ The platform features an adaptive, zero-latency responsive interface engineered 
 
 | 📟 Tablet Floor View (820×1180) | 📲 Mobile Guest Home (390×844) | 🛒 Mobile Ordering & Menu (390×844) |
 | :---: | :---: | :---: |
-| <img src="showcase-assets/tablet-overview.png" alt="Tablet POS Overview" width="100%" /> | <img src="showcase-assets/mobile-home.png" alt="Mobile Hero & Flow" width="100%" /> | <img src="showcase-assets/mobile-menu.png" alt="Mobile Menu & Cart" width="100%" /> |
+| ![Tablet View](showcase-assets/tablet-overview.jpg) | ![Mobile Home](showcase-assets/mobile-home.jpg) | ![Mobile Menu](showcase-assets/mobile-menu.jpg) |
 
 ---
 
