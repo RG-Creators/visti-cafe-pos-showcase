@@ -17,27 +17,53 @@ Engineered from the ground up to solve the real-world friction of busy restauran
 
 ---
 
-## 📸 Platform Interface & Multi-Device Showcase
+## 📸 Enterprise Owner Portal & Back-Office RMS Showcase
 
-The platform features an adaptive, zero-latency responsive interface engineered for high-concurrency ordering across desktop workstations, waiter floor tablets, and guest smartphones.
+The complete administrative suite provides granular, real-time command over every restaurant facet: from real-time floor occupancy and kitchen streams to recipe portion caps, inventory balance ledgers, and rotating anti-spoof biometric QR attendance.
 
-### 🖥️ Desktop & Laptop Experience (1920×1080)
+*(All sensitive business metrics, employee rosters, and customer phone numbers have been privacy-blurred for showcase purposes.)*
 
-| 🌟 Hero & Direct Ordering Experience | 🍽️ Interactive Menu & Category Navigation |
+### 1. Executive Operations & Floor Monitoring (Desktop / Tablet)
+
+| 🔐 Multi-Role Authentication Portal | 📊 Executive KPI Dashboard |
 | :---: | :---: |
-| ![Desktop Hero](showcase-assets/desktop-home.jpg) | ![Desktop Menu](showcase-assets/desktop-menu.jpg) |
+| ![Owner Login Portal](showcase-assets/owner-01-login.jpg) | ![Executive KPI Dashboard](showcase-assets/owner-02-dashboard.jpg) |
 
-| 🪑 Real-Time Table Availability (Live Floor Status) | 📅 Table Reservation & Guest Booking |
+| 🍳 Live Kitchen & Floor Order Processing | 🪑 Visual Floor Plan & Table Management |
 | :---: | :---: |
-| ![Live Table Status](showcase-assets/desktop-tables.jpg) | ![Desktop Reservation](showcase-assets/desktop-reservation.jpg) |
+| ![Live Orders Monitor](showcase-assets/owner-03-orders.jpg) | ![Live Table Occupancy](showcase-assets/owner-06-table-management.jpg) |
 
 ---
 
-### 📱 Tablet & Mobile Responsive Experience
+### 2. Inventory, Menu Engineering & Production Controls
 
-| 📟 Tablet Floor View (820×1180) | 📲 Mobile Guest Home (390×844) | 🛒 Mobile Ordering & Menu (390×844) |
+| 📦 Stock Inventory & Vendor Balance Ledger | 🍽️ Multi-Collection Menu Management |
+| :---: | :---: |
+| ![Inventory Ledger](showcase-assets/owner-04-inventory.jpg) | ![Menu Engineering](showcase-assets/owner-05-menu-management.jpg) |
+
+| 🍲 Kitchen Daily Portions & Prep Limits | 🧾 Counter POS Billing & Table Checkout |
+| :---: | :---: |
+| ![Food Stock & Prep Limits](showcase-assets/owner-07-food-stock.jpg) | ![Billing & POS Counter](showcase-assets/owner-08-billing-pos.jpg) |
+
+---
+
+### 3. Financial Auditing, Staff HRMS & Customer CRM
+
+| 📑 Financial Reports & Verified Data Retention | ⏱️ Anti-Spoof Dynamic QR Staff Attendance |
+| :---: | :---: |
+| ![Financial Reports & Archive](showcase-assets/owner-09-reports-audit.jpg) | ![Staff HRMS & Attendance QR](showcase-assets/owner-10-staff-attendance.jpg) |
+
+| 👥 Customer CRM & Loyalty Lifetime Spend | 🎨 Appearance Studio & Theme Customizer |
+| :---: | :---: |
+| ![Guest CRM & Loyalty](showcase-assets/owner-11-crm-users.jpg) | ![Theme & Website Customizer](showcase-assets/owner-12-website-settings.jpg) |
+
+---
+
+### 4. Mobile Owner Experience (Responsive Smartphone Suite)
+
+| 📱 Mobile Executive Dashboard | 📋 Mobile Navigation Drawer | 📲 Mobile Dynamic Attendance QR |
 | :---: | :---: | :---: |
-| ![Tablet View](showcase-assets/tablet-overview.jpg) | ![Mobile Home](showcase-assets/mobile-home.jpg) | ![Mobile Menu](showcase-assets/mobile-menu.jpg) |
+| ![Mobile Dashboard](showcase-assets/owner-13-mobile-dashboard.jpg) | ![Mobile Navigation Drawer](showcase-assets/owner-14-mobile-navigation.jpg) | ![Mobile Attendance Terminal](showcase-assets/owner-15-mobile-qr-punch.jpg) |
 
 ---
 
